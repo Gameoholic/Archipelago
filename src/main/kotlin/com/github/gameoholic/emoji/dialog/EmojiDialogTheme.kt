@@ -30,7 +30,7 @@ object EmojiDialogTheme {
     )
 
     @Suppress("MagicNumber")
-    public val theme: ThemeImpl = ThemeImpl(
+    val theme: ThemeImpl = ThemeImpl(
         Theme.Dimensions(
             buttonWidth = 14, //70
             buttonHeight = 14,

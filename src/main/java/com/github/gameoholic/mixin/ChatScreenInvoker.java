@@ -13,13 +13,6 @@ public interface ChatScreenInvoker {
     @Invoker("insertText")
     void invokeInsertText(String string, boolean bl);
 
-
-
 }
 
 
-//    @Inject(at = @At("HEAD"), method = "insertText(Ljava/lang/String;Z)V")
-//    private void insertText(CallbackInfo info) {
-//        Minecraft mc = Minecraft.getInstance();
-//        mc.gui.setOverlayMessage(Component.literal("test"), true);
-//    }

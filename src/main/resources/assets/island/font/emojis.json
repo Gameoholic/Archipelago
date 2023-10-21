@@ -1,0 +1,424 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/alien.png",
+      "chars": ["\uB000"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/angry.png",
+      "chars": ["\uB001"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/aqua.png",
+      "chars": ["\uB002"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/blue.png",
+      "chars": ["\uB003"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/burger.png",
+      "chars": ["\uB004"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/chicken.png",
+      "chars": ["\uB005"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/clown.png",
+      "chars": ["\uB006"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/coins.png",
+      "chars": ["\uB007"],
+      "ascent": 7,
+      "height": 8
+    },    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/crown.png",
+      "chars": ["\uB008"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/cyan.png",
+      "chars": ["\uB009"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/eyes.png",
+      "chars": ["\uB00A"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/fearful.png",
+      "chars": ["\uB00B"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/flushed.png",
+      "chars": ["\uB00C"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/green.png",
+      "chars": ["\uB00D"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/grimacing.png",
+      "chars": ["\uB00E"],
+      "ascent": 7,
+      "height": 8
+    },    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/grin.png",
+      "chars": ["\uB00F"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/heart.png",
+      "chars": ["\uB010"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/heart_black.png",
+      "chars": ["\uB011"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/heart_blue.png",
+      "chars": ["\uB012"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/heart_eyes.png",
+      "chars": ["\uB013"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/heart_green.png",
+      "chars": ["\uB014"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/heart_orange.png",
+      "chars": ["\uB015"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/heart_pink.png",
+      "chars": ["\uB016"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/heart_purple.png",
+      "chars": ["\uB017"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/heart_white.png",
+      "chars": ["\uB018"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/heart_yellow.png",
+      "chars": ["\uB019"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/hexapus.png",
+      "chars": ["\uB01A"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/imp.png",
+      "chars": ["\uB01B"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/joy.png",
+      "chars": ["\uB01C"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/kekw.png",
+      "chars": ["\uB01D"],
+      "ascent": 7,
+      "height": 8
+    },    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/laughing.png",
+      "chars": ["\uB01E"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/lime.png",
+      "chars": ["\uB01F"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/mcc_angry.png",
+      "chars": ["\uB020"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/mcc_smile.png",
+      "chars": ["\uB021"],
+      "ascent": 7,
+      "height": 8
+    },    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/music_note.png",
+      "chars": ["\uB022"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/nerd.png",
+      "chars": ["\uB023"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/neutral.png",
+      "chars": ["\uB024"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/noxcrew.png",
+      "chars": ["\uB025"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/orange.png",
+      "chars": ["\uB026"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/pensive.png",
+      "chars": ["\uB027"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/pink.png",
+      "chars": ["\uB028"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/point_left.png",
+      "chars": ["\uB029"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/point_right.png",
+      "chars": ["\uB02A"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/purple.png",
+      "chars": ["\uB02B"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/red.png",
+      "chars": ["\uB02C"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/scream.png",
+      "chars": ["\uB02D"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/skull.png",
+      "chars": ["\uB02E"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/smile.png",
+      "chars": ["\uB02F"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/sob.png",
+      "chars": ["\uB030"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/sunglasses.png",
+      "chars": ["\uB031"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/surprised.png",
+      "chars": ["\uB032"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/sus.png",
+      "chars": ["\uB033"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/sweat_smile.png",
+      "chars": ["\uB034"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/thinking.png",
+      "chars": ["\uB035"],
+      "ascent": 7,
+      "height": 8
+    },    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/thumbs_down.png",
+      "chars": ["\uB036"],
+      "ascent": 7,
+      "height": 8
+    },    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/thumbs_up.png",
+      "chars": ["\uB037"],
+      "ascent": 7,
+      "height": 8
+    },    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/tongue_out.png",
+      "chars": ["\uB038"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/trophy.png",
+      "chars": ["\uB039"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/weary.png",
+      "chars": ["\uB03A"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/winking_tongue.png",
+      "chars": ["\uB03B"],
+      "ascent": 7,
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "file": "mcc:_fonts/emojis/yellow.png",
+      "chars": ["\uB03C"],
+      "ascent": 7,
+      "height": 8
+    }
+  ]
+}

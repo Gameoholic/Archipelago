@@ -3,7 +3,8 @@
 	"package": "com.github.gameoholic.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-      "ChatScreenInvoker"
+      "ChatScreenInvoker",
+      "ChatScreenMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
