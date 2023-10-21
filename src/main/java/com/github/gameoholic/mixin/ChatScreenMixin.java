@@ -1,5 +1,6 @@
 package com.github.gameoholic.mixin;
 
+import com.github.gameoholic.Archipelago;
 import com.github.gameoholic.emoji.EmojiDialogUtil;
 import net.minecraft.client.gui.screens.ChatScreen;
 import org.spongepowered.asm.mixin.Mixin;
@@ -15,7 +16,8 @@ public class ChatScreenMixin {
      */
     @Inject(at = @At("HEAD"), method = "init()V")
     private void init(CallbackInfo info) {
-        EmojiDialogUtil.INSTANCE.openDialog();
+        if (Archipelago.INSTANCE.getConnectedToIsland())
+            EmojiDialogUtil.INSTANCE.openDialog();
     }
 
     /**
@@ -23,7 +25,8 @@ public class ChatScreenMixin {
      */
     @Inject(at = @At("HEAD"), method = "removed()V")
     private void removed(CallbackInfo info) {
-        EmojiDialogUtil.INSTANCE.closeDialog();
+        if (Archipelago.INSTANCE.getConnectedToIsland())
+            EmojiDialogUtil.INSTANCE.closeDialog();
     }
 }
 

@@ -9,11 +9,15 @@ import net.fabricmc.api.ClientModInitializer
 import net.fabricmc.fabric.api.client.command.v2.ClientCommandManager
 import net.fabricmc.fabric.api.client.command.v2.ClientCommandRegistrationCallback
 import net.fabricmc.fabric.api.client.command.v2.FabricClientCommandSource
+import net.minecraft.client.multiplayer.ClientHandshakePacketListenerImpl
+import net.minecraft.network.Connection
 import org.slf4j.LoggerFactory
 
 object Archipelago : ClientModInitializer {
     private const val MOD_ID = "archipelago"
+    val ISLAND_IP_KEYWORDS = listOf("island", "ilovecatboys")
     private val logger = LoggerFactory.getLogger(MOD_ID)
+    var connectedToIsland = false
 
     override fun onInitializeClient() {
         ClientCommandRegistrationCallback.EVENT.register { dispatcher, _ ->
