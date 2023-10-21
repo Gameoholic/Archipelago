@@ -21,6 +21,7 @@ object EmojiDialogUtil {
             closeDialog()
     }
     fun openDialog() {
+        closeDialog() // Close dialog in case already open
         val dialog = EmojiDialog(10, 10)
         DialogContainer += dialog
         emojiDialog = dialog
