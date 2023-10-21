@@ -9,6 +9,7 @@ https://github.com/Gameoholic/Archipelago/assets/30177004/7c835a0b-da20-44ef-b76
 
 
 **Prerequisites:**
+
 Make sure you have: 
 
 - Minecraft version ************1.20.1+************ with ************[Fabric](https://fabricmc.net/use/installer/)**
