@@ -3,9 +3,9 @@
 	"id": "archipelago",
 	"version": "${version}",
 	"name": "Archipelago",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Yet another utility Island mod.",
 	"authors": [
-		"Me!"
+		"Gameoholic"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -15,15 +15,9 @@
 	"icon": "assets/archipelago/icon.png",
 	"environment": "*",
 	"entrypoints": {
-		"main": [
-			{
-				"value": "com.github.gameoholic.Archipelago",
-				"adapter": "kotlin"
-			}
-		],
         "client": [
           {
-            "value": "com.github.gameoholic.ArchipelagoClient",
+            "value": "com.github.gameoholic.Archipelago",
             "adapter": "kotlin"
           }
         ],
@@ -42,7 +36,8 @@
 		"minecraft": "~1.20.1",
 		"java": ">=17",
 		"fabric-api": "*",
-		"fabric-language-kotlin": ">=1.9.10"
+		"fabric-language-kotlin": ">=1.9.10",
+        "sheeplib": "1.0.0-SNAPSHOT"
 	},
 	"suggests": {
 		"another-mod": "*"
