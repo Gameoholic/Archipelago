@@ -31,6 +31,6 @@
 		"java": ">=17",
 		"fabric-api": "*",
 		"fabric-language-kotlin": ">=1.9.6",
-        "sheeplib": "1.0.0-SNAPSHOT"
+        "sheeplib": "^1.0.0"
 	}
 }
